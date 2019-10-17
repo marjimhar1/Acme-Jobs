@@ -31,6 +31,7 @@ master.menu.sign-out = Salir
 master.menu.anonymous = Anónimo
 master.menu.anonymous.favourite-link.Andres = Enlace favorito de Andres
 master.menu.anonymous.favourite-link.Gonzalo = Enlace favorito de Gonzalo
+master.menu.anonymous.favourite-link.Mario = Enlace Favorito de Mario
 
 # master.menu.administrator ###################################################
 
@@ -92,4 +93,3 @@ master.license.text = \
 	durante un máximo de 31 días y "language" para almacenar sus preferencias de \
 	lenguage.  Además, almacenamos un ítem llamado "returnStack" en el almacenamiento \
 	local de su navegador para saber dónde tienen que ir algunos botones.
-	
