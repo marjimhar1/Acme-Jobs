@@ -19,6 +19,7 @@
 <acme:menu-bar code="master.menu.home">
 	<acme:menu-left>
 		<acme:menu-option code="master.menu.anonymous" access="isAnonymous()">
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link.Andres" action="https://github.com/andferrod3/"/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link.Gonzalo" action="https://github.com/gonguelun/"/>
 		</acme:menu-option>
 
