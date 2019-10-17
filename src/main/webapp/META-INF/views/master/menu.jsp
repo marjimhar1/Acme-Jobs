@@ -19,7 +19,9 @@
 <acme:menu-bar code="master.menu.home">
 	<acme:menu-left>
 		<acme:menu-option code="master.menu.anonymous" access="isAnonymous()">
-			<acme:menu-suboption code="master.menu.anonymous.favourite-link.Mario" action="https://github.com/marjimhar1/"/>
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link.Andres" action="https://github.com/andferrod3/"/>
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link.Gonzalo" action="https://github.com/gonguelun/"/>
+      <acme:menu-suboption code="master.menu.anonymous.favourite-link.Mario" action="https://github.com/marjimhar1/"/>
 		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">
@@ -52,4 +54,3 @@
 		<acme:menu-option code="master.menu.sign-out" action="/master/sign-out" access="isAuthenticated()"/>
 	</acme:menu-right>
 </acme:menu-bar>
-
