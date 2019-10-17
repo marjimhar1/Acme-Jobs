@@ -30,6 +30,7 @@ master.menu.sign-out = Salir
 
 master.menu.anonymous = Anónimo
 master.menu.anonymous.favourite-link.Andres = Enlace favorito de Andres
+master.menu.anonymous.favourite-link.Gonzalo = Enlace favorito de Gonzalo
 
 # master.menu.administrator ###################################################
 
