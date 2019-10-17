@@ -8,7 +8,7 @@
 # purposes.  The copyright owner does not offer any warranties or representations, nor do
 # they accept any liabilities with respect to them.
 
-This is the Starter-Project project, which is intended to be a core learning asset for the students
-who have enroled the Design and Testing subject of the Software Engineering curriculum of the 
-University of Sevilla.  This project provides a template our students can use to get their projects 
-up and running very quickly.
+This is an Acme-Jobs project developed by the 54 group formed by Andres Fernandez Rodriguez,
+Gonzalo Guerrero Luna, Mario David Jimenez Hartman and Carlos Santos Tirado. We are students
+of the University of Seville coursing our third grade in software engineering. This app is part
+of our deliverables. 
