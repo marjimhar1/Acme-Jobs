@@ -16,7 +16,7 @@ master.banner.background = #000000
 
 master.welcome.title = Welcome!
 master.welcome.text = \
-	Welcome to Starter Project! Never before has it bee easier to get your \
+	Welcome to Acme J! Never before has it bee easier to get your \
 	project up and running!
 
 # master.menu #################################################################
@@ -29,7 +29,10 @@ master.menu.sign-out = Sign out
 # master.menu.anonymous #######################################################
 
 master.menu.anonymous = Anonymous
-master.menu.anonymous.favourite-link.Carlos = Carlos's Favourite Link
+master.menu.anonymous.favourite-link.Andres = Andres' Favourite Link
+master.menu.anonymous.favourite-link.Gonzalo = Gonzalo's Favourite Link
+master.menu.anonymous.favourite-link.Mario = Mario's Favourite Link
+master.menu.anonymous.favourite-link.Carlos = Carlos' Favourite Link
 
 # master.menu.administrator ###################################################
 
@@ -72,10 +75,10 @@ master.footer.label.spanish = Spanish
 
 master.company.title = La compañía
 master.company.text = \
-	Starter Project, Inc. is a fictitious fictitious company that provides a \
+	Acme Jobs, Inc. is a fictitious fictitious company that provides a \
 	starter project for the students of the Design and Testing subject of the \
 	Software Engineering Curriculum of the University of Sevilla.
-master.company.name = Starter Project, Inc.
+master.company.name = Acme Jobs, Inc.
 master.company.address = Number Street, City, State, Country
 master.company.phone = +000 123 456
 master.company.email = contact@acme.com
