@@ -38,8 +38,8 @@ public class AnonymousJimenezBulletinCreateService implements AbstractCreateServ
 		moment = new Date(System.currentTimeMillis() - 1);
 
 		result = new JimenezBulletin();
-		result.setNickname("Juan Doe");
-		result.setMensaje("Hoolaaaa!");
+		result.setNickname("Juanito Makande");
+		result.setMensaje("Niña voladora");
 		result.setFecha_presente(moment);
 
 		return result;
