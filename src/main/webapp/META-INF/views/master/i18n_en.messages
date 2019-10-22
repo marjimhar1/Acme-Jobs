@@ -16,7 +16,7 @@ master.banner.background = #92f9b7
 
 master.welcome.title = Welcome!
 master.welcome.text = \
-	Welcome to Acme J! Never before has it bee easier to get your \
+	Welcome to Acme Jobs! Never before has it bee easier to get your \
 	project up and running!
 
 # master.menu #################################################################
@@ -37,12 +37,14 @@ master.menu.anonymous.favourite-link.Carlos = Carlos' Favourite Link
 
 master.menu.anonymous.list-bulletin = List bulletins
 
+master.menu.anonymous.list-bulletin.Jimenez = List Mario's bulletins
 master.menu.anonymous.list-bulletin.Guerrero = List Gonzalo's Bulletins
 master.menu.anonymous.list-bulletin.Santos = List Carlos's Bulletins
 master.menu.anonymous.list-bulletin.Fernandez = List Andrés' Bulletins
 
 master.menu.anonymous.create-bulletin = Create bulletin
 
+master.menu.anonymous.create-bulletin.Jimenez = Create Mario's bulletin
 master.menu.anonymous.create-bulletin.Guerrero = Create Gonzalo's Bulletin
 master.menu.anonymous.create-bulletin.Santos = Create Carlos's Bulletin
 master.menu.anonymous.create-bulletin.Fernandez = Create Andrés' Bulletin

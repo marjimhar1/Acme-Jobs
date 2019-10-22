@@ -17,23 +17,41 @@
 
 	<import resource="conversion-service.xml" />
 
+	<bean id="jimenezbulletin01" class="acme.entities.bulletins.JimenezBulletin">
+    <property name="nickname" value="Horrorgunner"/>
+    <property name="mensaje" value="Let's play!"/>
+    <property name="fecha_presente" value="2019/02/12 10:00"/>
+	</bean>
 	
+	<bean id="jimenezbulletin02" class="acme.entities.bulletins.JimenezBulletin">
+    <property name="nickname" value="Gustava"/>
+    <property name="mensaje" value="I love Fortnite!"/>
+    <property name="fecha_presente" value="2019/06/02 10:00"/>
+	</bean>
+	
+	<bean id="jimenezbulletin03" class="acme.entities.bulletins.JimenezBulletin">
+    <property name="nickname" value="Rasen272"/>
+    <property name="mensaje" value="Let's do a raid"/>
+    <property name="fecha_presente" value="2019/10/01 10:00"/>
+	</bean>
+  
+  
 	<bean id="guerrerobulletin01" class="acme.entities.bulletins.GuerreroBulletin">
-	<property name="city" value="Londres"/>
-	<property name="fav_place" value="Big Ben"/>
-	<property name="system_date" value="2019/02/14 10:00"/>
+    <property name="city" value="Londres"/>
+    <property name="fav_place" value="Big Ben"/>
+    <property name="system_date" value="2019/02/14 10:00"/>
 	</bean>
 	
 	<bean id="guerrerobulletin02" class="acme.entities.bulletins.GuerreroBulletin">
-	<property name="city" value="Los Angeles"/>
-	<property name="fav_place" value="Hollywood Sign"/>
-	<property name="system_date" value="2019/06/04 10:00"/>
+    <property name="city" value="Los Angeles"/>
+    <property name="fav_place" value="Hollywood Sign"/>
+    <property name="system_date" value="2019/06/04 10:00"/>
 	</bean>
 	
 	<bean id="guerrerobulletin03" class="acme.entities.bulletins.GuerreroBulletin">
-	<property name="city" value="Paris"/>
-	<property name="fav_place" value="Torre Eiffel"/>
-	<property name="system_date" value="2019/10/02 10:00"/>
+    <property name="city" value="Paris"/>
+    <property name="fav_place" value="Torre Eiffel"/>
+    <property name="system_date" value="2019/10/02 10:00"/>
 	</bean>
 
   

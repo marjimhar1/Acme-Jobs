@@ -8,6 +8,17 @@
 # purposes.  The copyright owner does not offer any warranties or representations, nor do
 # they accept any liabilities with respect to them.
 
+# JIMENEZ
+
+anonymous.bulletin.form.label.nickname = Nickname
+anonymous.bulletin.form.label.mensaje = Mensaje
+anonymous.bulletin.form.button.create = Crear
+anonymous.bulletin.form.button.return = Volver
+
+anonymous.bulletin.list.label.nickname = Nickname
+anonymous.bulletin.list.label.mensaje = Mensaje
+anonymous.bulletin.list.label.fecha_presente = Fecha Presente
+
 # GUERRERO
 
 anonymous.bulletin.form.label.city = Ciudad
