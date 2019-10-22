@@ -16,37 +16,8 @@
 	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
 	<import resource="conversion-service.xml" />
-
-  
-	<bean id="santosbulletin01" class="acme.entities.bulletins.SantosBulletin">
-		<property name="nombre" value="Carlos"/>
-		<property name="apellido" value="Santos"/>
-		<property name="descripcion" value="I'm happy"/>
-		<property name="fecha" value="2018/07/12 11:00"/>
-	</bean>
 	
-	<bean id="santosbulletin02" class="acme.entities.bulletins.SantosBulletin">
-		<property name="nombre" value="Mario"/>
-		<property name="apellido" value="Jimenez"/>
-		<property name="descripcion" value="I'm the manager"/>
-		<property name="fecha" value="2017/04/03 09:00"/>
-	</bean>
-	
-	<bean id="santosbulletin03" class="acme.entities.bulletins.SantosBulletin">
-		<property name="nombre" value="Gonzalo"/>
-		<property name="apellido" value="Guerrero"/>
-		<property name="descripcion" value="I'm gorgeous"/>
-		<property name="fecha" value="2019/05/18 17:50"/>
-	</bean>
-	
-	<bean id="santosbulletin04" class="acme.entities.bulletins.SantosBulletin">
-		<property name="nombre" value="Andres"/>
-		<property name="apellido" value="Fernandez"/>
-		<property name="descripcion" value="I'm the best"/>
-		<property name="fecha" value="2016/08/12 22:00"/>
-	</bean>
-</beans>
-	
+	<!-- Shouts -->
 	
 	<bean id="jimenezbulletin01" class="acme.entities.bulletins.JimenezBulletin">
 	<property name="nickname" value="Horrorgunner"/>
