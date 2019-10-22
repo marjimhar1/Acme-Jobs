@@ -17,13 +17,40 @@
 	"http://tiles.apache.org/dtds/tiles-config_3_0.dtd">
 
 <tiles-definitions>
-
-	<definition name="anonymous/jimenez-bulletin/form" extends="master">		
+  
+  <definition name="anonymous/jimenez-bulletin/form" extends="master">		
 		<put-attribute name="body" type="template" value="../anonymous/bulletin/jimenez-form.jsp" />
 	</definition>
 
 	<definition name="anonymous/jimenez-bulletin/list" extends="master">		
 		<put-attribute name="body" type="template" value="../anonymous/bulletin/jimenez-list.jsp" />
+	</definition>
+ 
+  
+	<definition name="anonymous/guerrero-bulletin/list" extends="master">		
+		<put-attribute name="body" type="template" value="../anonymous/bulletin/guerrero-list.jsp" />
+	</definition>
+	
+	<definition name="anonymous/guerrero-bulletin/form" extends="master">
+		<put-attribute name="body" type="template" value="../anonymous/bulletin/guerrero-form.jsp" />
+	</definition>
+
+  
+	<definition name="anonymous/santos-bulletin/list" extends="master">
+		<put-attribute name="body" type="template" value="../anonymous/bulletin/santos-list.jsp" />
+	</definition>
+
+	<definition name="anonymous/santos-bulletin/form" extends="master">
+		<put-attribute name="body" type="template" value="../anonymous/bulletin/santos-form.jsp" />
+	</definition>
+
+  
+	<definition name="anonymous/fernandez-bulletin/form" extends="master">
+		<put-attribute name="body" type="template" value="../anonymous/bulletin/fernandez-form.jsp" />
+	</definition>
+
+	<definition name="anonymous/fernandez-bulletin/list" extends="master">
+		<put-attribute name="body" type="template" value="../anonymous/bulletin/fernandez-list.jsp" />
 	</definition>
 
 </tiles-definitions>
