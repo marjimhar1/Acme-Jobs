@@ -1,0 +1,18 @@
+# i18n_en.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+anonymous.bulletin.form.label.city = City:
+anonymous.bulletin.form.label.fav_place = Favourite place:
+anonymous.bulletin.form.button.create = Create bulletin
+anonymous.bulletin.form.button.return = Return
+
+anonymous.bulletin.list.label.city = City
+anonymous.bulletin.list.label.fav_place = Favourite place
+anonymous.bulletin.list.label.system_date = System date
