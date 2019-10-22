@@ -8,13 +8,23 @@
 # purposes.  The copyright owner does not offer any warranties or representations, nor do
 # they accept any liabilities with respect to them.
 
-anonymous.bulletin.form.label.nombre=Name
-anonymous.bulletin.form.label.apellido=Surname
-anonymous.bulletin.form.label.descripcion=Description
-anonymous.bulletin.form.button.create=Create
-anonymous.bulletin.form.button.return=Return
+anonymous.bulletin.form.label.nombre = Name: 
+anonymous.bulletin.form.label.apellido = Surname: 
+anonymous.bulletin.form.label.descripcion = Description: 
+anonymous.bulletin.form.button.create = Create
+anonymous.bulletin.form.button.return = Return
 
-anonymous.bulletin.list.label.fecha=Date
-anonymous.bulletin.list.label.nombre=Name
-anonymous.bulletin.list.label.apellido=Surname
-anonymous.bulletin.list.label.descripcion=Description
+anonymous.bulletin.list.label.fecha = Date: 
+anonymous.bulletin.list.label.nombre = Name: 
+anonymous.bulletin.list.label.apellido = Surname: 
+anonymous.bulletin.list.label.descripcion = Description: 
+
+
+anonymous.bulletin.form.label.nickname = Nickname: 
+anonymous.bulletin.form.label.mensaje = Message: 
+anonymous.bulletin.form.button.create = Create
+anonymous.bulletin.form.button.return = Return
+
+anonymous.bulletin.list.label.nickname = Nickname:
+anonymous.bulletin.list.label.mensaje = Message:
+anonymous.bulletin.list.label.fecha_presente = Actual Date: 

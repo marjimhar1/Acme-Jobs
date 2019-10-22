@@ -23,3 +23,11 @@
 	<acme:form-submit code="anonymous.bulletin.form.button.create" action="/anonymous/santos-bulletin/create"/>
 	<acme:form-return code="anonymous.bulletin.form.button.return"/>
 </acme:form>
+
+<acme:form>
+	<acme:form-textbox code="anonymous.bulletin.form.label.nickname" path="nickname"/>
+	<acme:form-textarea code="anonymous.bulletin.form.label.mensaje" path="mensaje"/>
+	
+	<acme:form-submit code="anonymous.bulletin.form.button.create" action="/anonymous/jimenez-bulletin/create"/>
+	<acme:form-return code="anonymous.bulletin.form.button.return"/>
+</acme:form>

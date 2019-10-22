@@ -25,4 +25,14 @@
 	<definition name="anonymous/santos-bulletin/form" extends="master">
 		<put-attribute name="body" type="template" value="../anonymous/bulletin/form.jsp" />
 	</definition>
+  
+  
+	<definition name="anonymous/jimenez-bulletin/form" extends="master">		
+		<put-attribute name="body" type="template" value="../anonymous/bulletin/form.jsp" />
+	</definition>
+
+	<definition name="anonymous/jimenez-bulletin/list" extends="master">		
+		<put-attribute name="body" type="template" value="../anonymous/bulletin/list.jsp" />
+	</definition>
+
 </tiles-definitions>
