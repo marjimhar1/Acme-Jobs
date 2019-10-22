@@ -296,13 +296,11 @@ m2=*
 has v</panel_attributes>
     <additional_attributes>10.0;10.0;10.0;120.0</additional_attributes>
   </element>
-  
   <element>
     <id>UMLClass</id>
     <coordinates>
-
-      <x>266</x>
-      <y>434</y>
+      <x>378</x>
+      <y>497</y>
       <w>224</w>
       <h>112</h>
     </coordinates>
@@ -313,12 +311,13 @@ SantosBulletin
 + nombre:String (NotBlank)
 + apellido:String (NotBlank)
 + descripcion:String (NotBlank)</panel_attributes>
-  
-   <element>
+    <additional_attributes/>
+  </element>
+  <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>168</x>
-      <y>287</y>
+      <x>28</x>
+      <y>364</y>
       <w>231</w>
       <h>98</h>
     </coordinates>
@@ -331,12 +330,11 @@ FernandezBulletin
 + comentario: String (NotBlank)</panel_attributes>
     <additional_attributes/>
   </element>
-
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>210</x>
-      <y>364</y>
+      <x>21</x>
+      <y>497</y>
       <w>245</w>
       <h>77</h>
     </coordinates>
@@ -351,18 +349,17 @@ GuerreroBulletin
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>231</x>
-      <y>434</y>
-      <w>336</w>
-      <h>140</h>
+      <x>371</x>
+      <y>371</y>
+      <w>259</w>
+      <h>84</h>
     </coordinates>
     <panel_attributes>&lt;&lt;Entity&gt;&gt;
-  JimenezBulletin
-  --
-  + fecha_presente: Date {Temporal{TIMESTAMP}, Past}
-  + nickname: String {NotBlank}
-  + mensaje: String {NotBlank}</panel_attributes>
+JimenezBulletin
+--
++ fecha_presente: Date {Temporal{TIMESTAMP}, Past}
++ nickname: String {NotBlank}
++ mensaje: String {NotBlank}</panel_attributes>
     <additional_attributes/>
-</element>
-
+  </element>
 </diagram>
