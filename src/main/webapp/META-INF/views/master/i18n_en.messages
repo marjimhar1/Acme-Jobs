@@ -10,7 +10,7 @@
 
 # master.banner.welcome #######################################################
 
-master.banner.background = #92f9b7 
+master.banner.background = #92f9b7
 
 # master.welcome ##############################################################
 
@@ -33,6 +33,15 @@ master.menu.anonymous.favourite-link.Andres = Andres' Favourite Link
 master.menu.anonymous.favourite-link.Gonzalo = Gonzalo's Favourite Link
 master.menu.anonymous.favourite-link.Mario = Mario's Favourite Link
 master.menu.anonymous.favourite-link.Carlos = Carlos' Favourite Link
+
+master.menu.anonymous.list-bulletin=List bulletins
+
+master.menu.anonymous.list-bulletin.Santos=Carlos's List Bulletin
+
+master.menu.anonymous.create-bulletin=Create bulletins
+
+master.menu.anonymous.create-bulletin.Santos=Carlos's Create Bulletin
+
 
 # master.menu.administrator ###################################################
 
