@@ -16,5 +16,25 @@
 	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
 	<import resource="conversion-service.xml" />
+	
+	<!-- Shouts -->
+	
+	<bean id="jimenezbulletin01" class="acme.entities.bulletins.JimenezBulletin">
+	<property name="nickname" value="Horrorgunner"/>
+	<property name="mensaje" value="Let's play!"/>
+	<property name="fecha_presente" value="2019/02/12 10:00"/>
+	</bean>
+	
+	<bean id="jimenezbulletin02" class="acme.entities.bulletins.JimenezBulletin">
+	<property name="nickname" value="Gustava"/>
+	<property name="mensaje" value="I love Fortnite!"/>
+	<property name="fecha_presente" value="2019/06/02 10:00"/>
+	</bean>
+	
+	<bean id="jimenezbulletin03" class="acme.entities.bulletins.JimenezBulletin">
+	<property name="nickname" value="Rasen272"/>
+	<property name="mensaje" value="Let's do a raid"/>
+	<property name="fecha_presente" value="2019/10/01 10:00"/>
+	</bean>
 
 </beans>
