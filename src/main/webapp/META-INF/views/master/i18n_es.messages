@@ -37,10 +37,12 @@ master.menu.anonymous.favourite-link.Carlos = Enlace favorito de Carlos
 
 master.menu.anonymous.list-bulletin = Listar boletines
 
+master.menu.anonymous.list-bulletin.Santos = Listar boletines de Carlos
 master.menu.anonymous.list-bulletin.Fernandez = Listar boletines de Andrés
 
 master.menu.anonymous.create-bulletin = Crear boletines
 
+master.menu.anonymous.create-bulletin.Santos = Crear boletines de Carlos
 master.menu.anonymous.create-bulletin.Fernandez = Crear boletines de Andrés
 
 # master.menu.administrator ###################################################

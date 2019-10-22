@@ -18,6 +18,15 @@
 
 <tiles-definitions>
 
+	<definition name="anonymous/santos-bulletin/list" extends="master">
+		<put-attribute name="body" type="template" value="../anonymous/bulletin/santos-list.jsp" />
+	</definition>
+
+	<definition name="anonymous/santos-bulletin/form" extends="master">
+		<put-attribute name="body" type="template" value="../anonymous/bulletin/santos-form.jsp" />
+	</definition>
+
+  
 	<definition name="anonymous/fernandez-bulletin/form" extends="master">
 		<put-attribute name="body" type="template" value="../anonymous/bulletin/fernandez-form.jsp" />
 	</definition>

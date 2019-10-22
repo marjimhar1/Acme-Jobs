@@ -35,13 +35,17 @@ master.menu.anonymous.favourite-link.Gonzalo = Gonzalo's Favourite Link
 master.menu.anonymous.favourite-link.Mario = Mario's Favourite Link
 master.menu.anonymous.favourite-link.Carlos = Carlos' Favourite Link
 
+
 master.menu.anonymous.list-bulletin = List bulletins
 
-master.menu.anonymous.list-bulletin.Fernandez = List Andrés' bulletins
+master.menu.anonymous.list-bulletin.Santos = List Carlos's Bulletin
+master.menu.anonymous.list-bulletin.Fernandez = List Andrés' Bulletins
 
-master.menu.anonymous.create-bulletin = Create bulletins
+master.menu.anonymous.create-bulletin = Create bulletin
 
-master.menu.anonymous.create-bulletin.Fernandez = Create Andrés' bulletins
+master.menu.anonymous.create-bulletin.Santos = Create Carlos's Bulletin
+master.menu.anonymous.create-bulletin.Fernandez = Create Andrés' Bulletin
+
 # master.menu.administrator ###################################################
 
 master.menu.administrator = Administrator
