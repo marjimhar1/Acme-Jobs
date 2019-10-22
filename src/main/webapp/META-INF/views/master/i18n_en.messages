@@ -36,10 +36,12 @@ master.menu.anonymous.favourite-link.Carlos = Carlos' Favourite Link
 
 master.menu.anonymous.list-bulletin = List bulletins
 
+master.menu.anonymous.list-bulletin.Santos = Carlos's List Bulletin
 master.menu.anonymous.list-bulletin.Jimenez = List Mario's bulletins
 
 master.menu.anonymous.create-bulletin = Create bulletin
 
+master.menu.anonymous.create-bulletin.Santos = Carlos's Create Bulletin
 master.menu.anonymous.create-bulletin.Jimenez = Create Mario's bulletin
 
 # master.menu.administrator ###################################################
