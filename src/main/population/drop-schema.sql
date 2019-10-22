@@ -29,7 +29,11 @@
 
     drop table if exists `guerrero_bulletin`;
 
+    drop table if exists `fernandez_bulletin`;
+
     drop table if exists `provider`;
+
+    drop table if exists `santos_bulletin`;
 
     drop table if exists `user_account`;
 

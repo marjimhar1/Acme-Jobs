@@ -8,11 +8,39 @@
 # purposes.  The copyright owner does not offer any warranties or representations, nor do
 # they accept any liabilities with respect to them.
 
-anonymous.bulletin.form.label.city = City:
-anonymous.bulletin.form.label.fav_place = Favourite place:
-anonymous.bulletin.form.button.create = Create bulletin
+# GUERRERO
+
+anonymous.bulletin.form.label.city = City 
+anonymous.bulletin.form.label.fav_place = Favourite place 
+anonymous.bulletin.form.button.create = Create
 anonymous.bulletin.form.button.return = Return
 
 anonymous.bulletin.list.label.city = City
 anonymous.bulletin.list.label.fav_place = Favourite place
 anonymous.bulletin.list.label.system_date = System date
+
+# SANTOS
+
+anonymous.bulletin.form.label.nombre=Name
+anonymous.bulletin.form.label.apellido=Surname
+anonymous.bulletin.form.label.descripcion=Description
+anonymous.bulletin.form.button.create=Create
+anonymous.bulletin.form.button.return=Return
+
+anonymous.bulletin.list.label.fecha=Date
+anonymous.bulletin.list.label.nombre=Name
+anonymous.bulletin.list.label.apellido=Surname
+anonymous.bulletin.list.label.descripcion=Description
+
+# FERNÁNDEZ
+
+anonymous.bulletin.form.label.usuario = User
+anonymous.bulletin.form.label.direccion = Address
+anonymous.bulletin.form.label.comentario = Comment
+anonymous.bulletin.form.button.create = Comment
+anonymous.bulletin.form.button.return = Return
+
+anonymous.bulletin.list.label.fecha=Creation Date
+anonymous.bulletin.list.label.usuario=User
+anonymous.bulletin.list.label.direccion=Address
+anonymous.bulletin.list.label.comentario=Comment

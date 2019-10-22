@@ -16,8 +16,7 @@
 	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
 	<import resource="conversion-service.xml" />
-	
-	<!-- Shouts -->
+
 	
 	<bean id="guerrerobulletin01" class="acme.entities.bulletins.GuerreroBulletin">
 	<property name="city" value="Londres"/>
@@ -37,4 +36,55 @@
 	<property name="system_date" value="2019/10/02 10:00"/>
 	</bean>
 
+  
+	<bean id="santosbulletin01" class="acme.entities.bulletins.SantosBulletin">
+		<property name="nombre" value="Carlos"/>
+		<property name="apellido" value="Santos"/>
+		<property name="descripcion" value="I'm happy"/>
+		<property name="fecha" value="2018/07/12 11:00"/>
+	</bean>
+	
+	<bean id="santosbulletin02" class="acme.entities.bulletins.SantosBulletin">
+		<property name="nombre" value="Mario"/>
+		<property name="apellido" value="Jimenez"/>
+		<property name="descripcion" value="I'm the manager"/>
+		<property name="fecha" value="2017/04/03 09:00"/>
+	</bean>
+	
+	<bean id="santosbulletin03" class="acme.entities.bulletins.SantosBulletin">
+		<property name="nombre" value="Gonzalo"/>
+		<property name="apellido" value="Guerrero"/>
+		<property name="descripcion" value="I'm gorgeous"/>
+		<property name="fecha" value="2019/05/18 17:50"/>
+	</bean>
+	
+	<bean id="santosbulletin04" class="acme.entities.bulletins.SantosBulletin">
+		<property name="nombre" value="Andres"/>
+		<property name="apellido" value="Fernandez"/>
+		<property name="descripcion" value="I'm the best"/>
+		<property name="fecha" value="2016/08/12 22:00"/>
+	</bean>
+
+  
+  <bean id="fernandezbulletin01" class="acme.entities.bulletins.FernandezBulletin">
+		<property name="usuario" value="akinatorteadivina" />
+		<property name="direccion" value="Avenida de la Constitución 7" />
+		<property name="comentario" value="Os adivino gente gratis" />
+		<property name="fecha" value="2019/07/04 16:18"/>
+	</bean>
+  
+	<bean id="fernandezbulletin02" class="acme.entities.bulletins.FernandezBulletin">
+		<property name="usuario" value="esperanzagracia" />
+		<property name="direccion" value="Calle Malboro 19" />
+		<property name="comentario" value="Si alguien quiere que le lea el horóscopo que me lo diga" />
+		<property name="fecha" value="2017/02/05 10:16"/>
+	</bean>
+  
+	<bean id="fernandezbulletin03" class="acme.entities.bulletins.FernandezBulletin">
+		<property name="usuario" value="martukiguapa" />
+		<property name="direccion" value="Calle Amargura 10" />
+		<property name="comentario" value="etiquetarse" />
+		<property name="fecha" value="2010/02/17 20:16"/>
+	</bean>
+  
 </beans>

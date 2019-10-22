@@ -35,6 +35,15 @@
         `city` varchar(255),
         `fav_place` varchar(255),
         `system_date` datetime(6),
+
+    create table `fernandez_bulletin` (
+       `id` integer not null,
+        `version` integer not null,
+        `comentario` varchar(255),
+        `direccion` varchar(255),
+        `fecha` datetime(6),
+        `usuario` varchar(255),
+
         primary key (`id`)
     ) engine=InnoDB;
 
@@ -44,6 +53,16 @@
         `user_account_id` integer,
         `company` varchar(255),
         `sector` varchar(255),
+        primary key (`id`)
+    ) engine=InnoDB;
+
+    create table `santos_bulletin` (
+       `id` integer not null,
+        `version` integer not null,
+        `apellido` varchar(255),
+        `descripcion` varchar(255),
+        `fecha` datetime(6),
+        `nombre` varchar(255),
         primary key (`id`)
     ) engine=InnoDB;
 
