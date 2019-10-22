@@ -47,16 +47,6 @@
         primary key (`id`)
     ) engine=InnoDB;
 
-    create table `santos_bulletin` (
-       `id` integer not null,
-        `version` integer not null,
-        `apellido` varchar(255),
-        `descripcion` varchar(255),
-        `fecha` datetime(6),
-        `nombre` varchar(255),
-        primary key (`id`)
-    ) engine=InnoDB;
-
     create table `user_account` (
        `id` integer not null,
         `version` integer not null,
